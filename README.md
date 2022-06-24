@@ -1,6 +1,6 @@
 # JavaScript 02
 
-<img height="300px" src="https://i.imgur.com/Zisq7g1.gif">
+<img src="https://i.imgur.com/Zisq7g1.gif">
 
 Deploy: https://gabrielvinhas.github.io/javascript02/
 
